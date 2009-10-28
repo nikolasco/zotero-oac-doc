@@ -54,7 +54,7 @@ oacSegments
 Segment JSON
 ============
 I believe that fragment descriptions should be stored in a serialized
-`JSON <http://tools.ietf.org/html/rfc4627>` form. In addition to the
+`JSON <http://tools.ietf.org/html/rfc4627>`_ form. In addition to the
 members above, each object will contain the name of its class.
 
 (would version numbers make sense?)
